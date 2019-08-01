@@ -1,0 +1,29 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>php-Variable</title>
+</head>
+<body>
+sum()
+    Hello everyone and welcome to this page<br />
+You can follow me on this <a href="http://www.programmingcenter.ir/"><h2>link</h2></a>.<br />
+Well, let's go to training !!<br />
+The variable is represented by the $ sign as follows<br />
+for example:<hr /><br />
+<script>
+function sum(){
+     document.write = "
+     <?php
+$name = 'moein';
+eaco $name;
+?>
+------------- Result ----------------
+moein
+     "       
+        }
+<p>Be sure to like us in Genesis next</p>
+Good bye
+</body>
+</html>
